@@ -3,4 +3,6 @@ Pythonの仮想環境やモジュールの管理に、uvを使っているので
 ただ、少し前までryeを使ってた関係で、`rye sync`、`pip install -r requirements.lock`でやるリポジトリもあると思うので、よろしくお願いします。  
 作るプログラムは、3Low(Low duration, Low price, Low Quolity)です。(3Lowは自分が勝手に作った言葉です。)  
 まあ、Low priceというか、Free priceですが。  
-[ブログ](https://shizukani-cp.github.io/blog)
+今のところすべてMITライセンスで公開しています。もしかしたら、何かの都合でCC BY-SAライセンスで公開しておいてこのプロフィールを更新し忘れている可能性があるので、そこだけ注意してください。  
+###### ソーシャルリンク
+- [ブログ](https://shizukani-cp.github.io/blog)
