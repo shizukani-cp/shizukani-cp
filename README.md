@@ -1,10 +1,10 @@
 # English
-Hello. I'm Shizukani.
-I often use uv for managing Python virtual environments and modules, so after git clone, I frequently run uv sync to execute the code.  Those using pip might be able to do this with pip install -r uv.lock, but I offer no guarantee. (I don't use pip at all.)
-However, because I used rye until recently, some repositories might use rye sync and pip install -r requirements.lock, so please be aware of this.
-The programs I create are 3Low (Low duration, Low price, Low Quality). (3Low is a term I coined.)
-Well, it's more like free than low price. Also, Low duration means it's quick to create.  I don't guarantee the speed of the program itself.
-Currently, everything is released under the MIT License.  There's a possibility that, due to some circumstances, it might be released under the CC BY-SA license and I've forgotten to update this profile, so please be mindful of that.
+Hello. I'm Shizukani.  
+I often use uv for managing Python virtual environments and modules, so after git clone, I frequently run uv sync to execute the code.  Those using pip might be able to do this with pip install -r uv.lock, but I offer no guarantee. (I don't use pip at all.)  
+However, because I used rye until recently, some repositories might use rye sync and pip install -r requirements.lock, so please be aware of this.  
+The programs I create are 3Low (Low duration, Low price, Low Quality). (3Low is a term I coined.)  
+Well, it's more like free than low price. Also, Low duration means it's quick to create.  I don't guarantee the speed of the program itself.  
+Currently, everything is released under the MIT License.  There's a possibility that, due to some circumstances, it might be released under the CC BY-SA license and I've forgotten to update this profile, so please be mindful of that.  
 ### Social Links
 - [Blog](https://shizukani-cp.github.io/blog)
 
