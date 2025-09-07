@@ -19,5 +19,5 @@ Pythonの仮想環境やモジュールの管理に、uvを使っているので
 - [ブログ](https://shizukani-cp.github.io/blog)
 
 <a href="https://github.com/shizukani-cp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=echasnovski&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shizukani-cp&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
 </a>
