@@ -17,3 +17,7 @@ Pythonの仮想環境やモジュールの管理に、uvを使っているので
 今のところすべてMITライセンスで公開しています。もしかしたら、何かの都合でCC BY-SAライセンスで公開しておいてこのプロフィールを更新し忘れている可能性があるので、そこだけ注意してください。  
 ### ソーシャルリンク
 - [ブログ](https://shizukani-cp.github.io/blog)
+
+<a href="https://github.com/shizukani-cp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=echasnovski&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
+</a>
